@@ -1,0 +1,9 @@
+<shapes>
+    <shape type="Circle">
+        <radius>5</radius>
+    </shape>
+    <shape type="Rectangle">
+        <width>10</width>
+        <height>20</height>
+    </shape>
+</shapes>

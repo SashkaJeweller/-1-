@@ -1,0 +1,13 @@
+{
+    "shapes": [
+        {
+            "type": "Circle",
+            "radius": 5
+        },
+        {
+            "type": "Rectangle",
+            "width": 10,
+            "height": 20
+        }
+    ]
+}
